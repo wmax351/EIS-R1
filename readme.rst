@@ -1,6 +1,8 @@
 ****************************************
 MakerPlane Engine Information System
 ****************************************
+This is an experimental system, and is not suited for primary or backup flight/engine instrumentation or navigation. Use at your own risk.
+
 
 Revision 1
 
